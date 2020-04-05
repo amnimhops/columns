@@ -1,0 +1,12 @@
+{
+	"blockImages":["/resources/1.png","/resources/2.png","/resources/3.png","/resources/4.png","/resources/5.png"],
+	"blockBackground":"/resources/block_background.png",
+	"midi":"/resources/Clotho.mid",
+	"serverHost":"localhost",
+	"serverPort":6666,
+	"boardWidth":64,
+	"boardHeight":48,
+	"maxPlayers":4,
+	"columnSize":3
+}
+		
